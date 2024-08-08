@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Angular CRUD\\ProductManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|g:\\angular crud\\productmanagementapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|g:\\angular crud\\productmanagementapp\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|solutionrelative:data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|g:\\angular crud\\productmanagementapp\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|g:\\angular crud\\productmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|g:\\angular crud\\productmanagementapp\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|solutionrelative:context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|g:\\angular crud\\productmanagementapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|g:\\angular crud\\productmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE7C5AFD-6A17-43B5-9464-26011EF4624A}|ProductManagementApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "G:\\Angular CRUD\\ProductManagementApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "G:\\Angular CRUD\\ProductManagementApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIAxwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:13:29.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\Angular CRUD\\ProductManagementApp\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "G:\\Angular CRUD\\ProductManagementApp\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:10:43.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "products.json",
+              "DocumentMoniker": "G:\\Angular CRUD\\ProductManagementApp\\Data\\products.json",
+              "RelativeDocumentMoniker": "Data\\products.json",
+              "ToolTip": "G:\\Angular CRUD\\ProductManagementApp\\Data\\products.json",
+              "RelativeToolTip": "Data\\products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAD9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T14:08:21.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Angular CRUD\\ProductManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Angular CRUD\\ProductManagementApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:02:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "G:\\Angular CRUD\\ProductManagementApp\\Context\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ProductDbContext.cs",
+              "ToolTip": "G:\\Angular CRUD\\ProductManagementApp\\Context\\ProductDbContext.cs",
+              "RelativeToolTip": "Context\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:53:12.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\Angular CRUD\\ProductManagementApp\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "G:\\Angular CRUD\\ProductManagementApp\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:51:30.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Angular CRUD\\ProductManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\Angular CRUD\\ProductManagementApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T13:10:45.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

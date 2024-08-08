@@ -1,0 +1,38 @@
+<div class="container">
+    <form action="" [formGroup]="signupForm">
+        <h1 class="mb-3">Add Product</h1>
+        <div>
+            <label>Name</label>
+            <input type="text" formControlName="name" class="form-control mb-2" >
+            <div *ngIf="signupForm.controls['name'].invalid && (signupForm.controls['name'].dirty || signupForm.controls['name'].touched)">
+                <div *ngIf="signupForm.controls['name'].errors?.['required']" class="text-danger">
+                    Name is required
+                </div>
+            </div>
+        </div>
+        <div>
+            <label>Price</label>
+            <input type="text" formControlName="price" class="form-control mb-2" >
+            <div *ngIf="signupForm.controls['price'].invalid && (signupForm.controls['price'].dirty || signupForm.controls['price'].touched)">
+                <div *ngIf="signupForm.controls['price'].errors?.['required']" class="text-danger">
+                    Price is required
+                </div>
+                <div *ngIf="signupForm.controls['price'].errors?.['pattern']" class="text-danger">
+                    Invalid price format. Must be a positive number with up to 2 decimal places
+                 </div>
+            </div>
+        </div>
+        <div>
+            <label>Quantity</label>
+            <input type="text" formControlName="quantity" class="form-control mb-2">    
+            <div *ngIf="signupForm.controls['quantity'].invalid && (signupForm.controls['quantity'].dirty || signupForm.controls['quantity'].touched)">
+                <div *ngIf="signupForm.controls['quantity'].errors?.['required']" class="text-danger">
+                    Quantity is required
+                </div>
+            </div>
+        </div>
+
+        <button class="btn btn-success" (click)="addProducts(signupForm.value)" [disabled]="!signupForm.valid" >Submit</button>
+    </form>
+</div>
+

@@ -1,0 +1,30 @@
+<div class="container">
+  <button class="btn btn-lg btn-light mb-5 mt-5" routerLink="signup">Create New Product</button>
+
+  <table class="table table-bordered text-center">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Price</th>
+        <th scope="col">Quantity</th>
+        <th scope="col">Edit</th>
+        <th scope="col">Delete</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of userdetails">
+        <th scope="row">{{user.id}}</th>
+        <td>{{user.name}}</td>
+        <td>{{user.price}}</td>
+        <td>{{user.quantity}}</td>
+        <td>
+          <button class="btn btn-light" (click)="editproduct(user.id)">Edit</button>
+        </td>
+        <td>
+          <button class="btn btn-light" (click)="deleteproduct(user.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
